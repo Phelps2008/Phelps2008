@@ -1,15 +1,15 @@
 # Olá, eu sou o Phelps! 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=false&width=500&lines=Desenvolvedor+Java;Estudante+de+Desenvolvimento+de+Sistemas;T%C3%A9cnico+em+DS+-+ETEC+Itaquera+I;An%C3%A1lise+de+Dados+%26+SQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=false&width=500&lines=Estudante+de+Desenvolvimento+de+Sistemas;T%C3%A9cnico+em+DS+-+ETEC+Itaquera+I;Desenvolvedor+Java;An%C3%A1lise+de+Dados+%26+SQL" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🎓 Formação & Sobre Mim
 
-- ☕ **Desenvolvedor focado em Java** (minha linguagem principal e favorita!).
 - 🎓 Cursando **Técnico em Desenvolvimento de Sistemas** na **ETEC de Itaquera I**.
+- - ☕ **Desenvolvedor focado em Java** (minha linguagem principal e favorita!).
 - 📜 Certificado em **Análise de Dados com SQL** pela **Udemy**.
 - 🛠️ Conhecimentos práticos em **Hardware** (manutenção e montagem de computadores) e **Pacote Office**.
 - 💡 Focado em lógica de programação, orientação a objetos, banco de dados e desenvolvimento web.
