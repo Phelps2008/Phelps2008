@@ -1,29 +1,29 @@
-# Olá, eu sou o Phelps! 👋
+# Hi there, I'm Phelps! 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=false&width=500&lines=Estudante+de+Desenvolvimento+de+Sistemas;T%C3%A9cnico+em+DS+-+ETEC+Itaquera+I;Desenvolvedor+Java;An%C3%A1lise+de+Dados+%26+SQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=false&width=500&lines=Systems+Development+Student;Systems+Dev+Technician+-+ETEC;Java+Developer;Data+Analysis+%26+SQL" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🎓 Formação & Sobre Mim
+### 🎓 Education & About Me
 
-- 🎓 Cursando **Técnico em Desenvolvimento de Sistemas** na **ETEC de Itaquera I**.
-- - ☕ **Desenvolvedor focado em Java** (minha linguagem principal e favorita!).
-- 📜 Certificado em **Análise de Dados com SQL** pela **Udemy**.
-- 🛠️ Conhecimentos práticos em **Hardware** (manutenção e montagem de computadores) e **Pacote Office**.
-- 💡 Focado em lógica de programação, orientação a objetos, banco de dados e desenvolvimento web.
+- 🎓 Studying **Systems Development** at **ETEC Itaquera I**.
+- ☕ **Java Developer** (my main and favorite programming language!).
+- 📜 Certified in **Data Analysis with SQL** by **Udemy**.
+- 🛠️ Hands-on knowledge in **Hardware** (PC building and maintenance) and **Microsoft Office**.
+- 💡 Focused on programming logic, object-oriented programming (OOP), databases, and web development.
 
 ---
 
-### 🛠️ Tecnologias & Habilidades
+### 🛠️ Tech Stack & Skills
 
-#### Backend & Linguagens Principais
+#### Backend & Core Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-#### Banco de Dados & Análise
+#### Databases & Analytics
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -33,7 +33,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### Ferramentas & Produtividade
+#### Tools & Productivity
 ![Hardware](https://img.shields.io/badge/Hardware-4D4D4D?style=for-the-badge&logo=microchip&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -42,7 +42,7 @@
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Phelps2008&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -55,7 +55,7 @@
 
 ---
 
-### 📫 Redes & Contato
+### 📫 Connect with Me
 
 <p align="left">
   <a href="https://wa.me/5511993589869" target="_blank">
